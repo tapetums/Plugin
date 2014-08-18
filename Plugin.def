@@ -1,0 +1,7 @@
+﻿EXPORTS
+    GetInfo @1	PRIVATE
+    GetData @2	PRIVATE
+    SetData @3	PRIVATE
+    Attach  @4	PRIVATE
+    Detach  @5	PRIVATE
+    Notify  @6	PRIVATE
